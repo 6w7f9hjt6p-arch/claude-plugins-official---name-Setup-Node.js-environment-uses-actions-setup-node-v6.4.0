@@ -44,7 +44,7 @@
     
     ## License
     
-    Please see each linked plugin for the relevant LICENSE file.
+    Please see each linked plugin for the relevant LICENSE file.##
     
     ## Documentation
     
